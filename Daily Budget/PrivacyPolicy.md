@@ -4,30 +4,17 @@ This privacy policy applies to the Daily Budget ( روزنامچه ) app (hereby
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
-
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The Application does not collect, transmit, or store any personal data on external servers. All your information — including transactions, budgets, categories, and app settings — is stored locally on your device. The Application does not track your usage, collect IP addresses, monitor navigation behavior, or gather any device information.
 
 The Application does not gather precise information about the location of your mobile device.
 
 The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The Service Provider does not collect or transmit any information that would enable them to contact you. The Application operates entirely offline and does not require an internet connection for its core functionality.
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+The Application does not transmit any data to third parties. All data remains on your device and is not shared with external services.
 
 **Opt-Out Rights**
 
@@ -35,7 +22,7 @@ You can stop all collection of information by the Application easily by uninstal
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at shadabwahidullah@gmail.com and they will respond in a reasonable time.
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 **Children**
 
